@@ -31,7 +31,7 @@ header{
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#e8491d 3px solid;
+  border-bottom:#6abf40 3px solid;
 }
 
 header a{
@@ -120,7 +120,7 @@ ul#services li{
 footer{
   padding:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#6abf40;
   text-align: center;
 }
 
